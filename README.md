@@ -1,1 +1,1 @@
-# prime_nos
+Find prime numbers
